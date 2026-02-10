@@ -38,6 +38,6 @@ export const pages = {
   meta: [
     { name: "sitemap", href: "/sitemap.xml" },
     { name: "attribute", href: "/attribute" },
-    { name: "repository", href: "/attribute" },
+    { name: "repository", href: "https://github.com/Bubbleyur/lanwayae" },
   ],
 };
