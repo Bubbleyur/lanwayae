@@ -8,12 +8,12 @@
 
 <br />
 
-[![website screenshot](./.github/assets/screenshot.png)](https://hexaa.sh/)
+[![website screenshot](./.github/assets/screenshot.png)](https://lanport.vercel.app/)
 
 <div align="center">
-  <a href="https://hexaa.sh" target="_blank">live site</a>
+  <a href="https://lanport.vercel.app" target="_blank">live site</a>
   &nbsp;·&nbsp;
-  <a href="https://redesign.hexaa.sh" target="_blank">redesign (development)</a>
+  <a href="https://hexaa.sh" target="_blank">the goat</a>
 </div>
 
 ---
