@@ -7,4 +7,5 @@ export interface ProjectItem {
   badge: ReactElement[];
   link?: string;
   repo: string;
+  unmaintained?: boolean;
 }
