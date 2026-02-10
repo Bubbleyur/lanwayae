@@ -24,7 +24,7 @@ export const hackathons: Array<Hackathon> = [
     description:
       "Schematics National Logic Competition (NLC) 2023 is a national-level logic competition organized as part of Schematics ITS by the Department of Informatics, Institut Teknologi Sepuluh Nopember (ITS). The competition focuses on testing participants’ logical reasoning, analytical thinking, and problem-solving skills through a series of structured challenges.",
     flags: ["committee"],
-    image: "/static/images/hackathons/daydream-jakarta.png",
+    image: "/static/images/hackathons/schematics-nlc.png",
     links: [
       {
         title: "Landing Page",
@@ -34,16 +34,16 @@ export const hackathons: Array<Hackathon> = [
     ],
   },
   {
-    title: "Garuda Hacks 6.0",
-    dates: "July, 2025",
-    location: "Tangerang, Indonesia",
+    title: "CTF Ara",
+    dates: "Jan-Feb, 2024",
+    location: "Surabaya, Indonesia",
     description:
-      "Southeast Asia's largest hackathon, empowering young Indonesians with the skills and motivation to solve the country's most urgent issues over an intense 30-hour coding marathon.",
-    image: "/static/images/hackathons/garudahacks-6.0.png",
+      "CTF Ara is a Capture The Flag competition organized by HMIT-ITS. The competition challenges participants to solve a series of cybersecurity challenges, testing their skills in areas such as web exploitation, reverse engineering, and forensics.",
+    image: "/static/images/hackathons/ctf-ara.png",
     links: [
       {
         title: "Landing Page",
-        href: "https://garudahacks.com/",
+        href: "https://hmit-its.com/",
         icon: <Home />,
       },
     ],
