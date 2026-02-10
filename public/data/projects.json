@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Proyek Baruku",
+    "description": "Deskripsi proyek hasil ATM.",
+    "imageId": "/new-project.png",
+    "badges": ["Next.js", "Tailwind"],
+    "link": "https://example.com",
+    "repo": "https://github.com/user/repo"
+  }
+]
