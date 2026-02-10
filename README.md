@@ -1,48 +1,62 @@
 <div align="center">
-  <h1>personal-web / hexaa.sh</h1>
-  <p>🔥 A personal website built from scratch using Next.js, TypeScript, Tailwind CSS, SWR, Drizzle, and Neon Postgres</p>
+  <h1>lanwayae</h1>
+  <p>
+    a personal website built as a place to think, build, and execute ideas —
+    from code experiments to real-world projects.
+  </p>
 </div>
 
 <br />
 
-[![Hexaa.sh screenshot](./.github/assets/screenshot.png)](https://hexaa.sh/)
+[![website screenshot](./.github/assets/screenshot.png)](https://hexaa.sh/)
 
 <div align="center">
-  <a href="https://hexaa.sh" target="_blank">hexaa.sh</a>
-  &nbsp;
-  <a href="https://redesign.hexaa.sh" target="_blank">redesign.hexaa.sh (development)</a>
+  <a href="https://hexaa.sh" target="_blank">live site</a>
+  &nbsp;·&nbsp;
+  <a href="https://redesign.hexaa.sh" target="_blank">redesign (development)</a>
 </div>
 
-## Introduction
+---
 
-This is my third portfolio website, built from scratch using Next.js, Drizzle ORM, and other helpful tools.
+## Overview
 
-Please note that this portfolio website is not 100% complete. It continues to evolve with improvements, bug fixes, visual enhancements, and more. This website is where I share what I've learned and offer insights to others.
+This is my personal website, built using an existing framework and UI system created by **hexaa**, then adapted and extended to fit my own needs and style.
 
-Feel free to use this website as a reference, for inspiration, or as a template, following the provided license. You can access the source code to customize it to your needs.
+Originally designed as a portfolio framework, it became a solid foundation for experimenting, structuring ideas, and turning abstract thoughts into something tangible. This project reflects how I learn, build, and execute ideas over time.
 
-If you find this website helpful, please consider leaving a rating. 😎👍🏻
+The website is continuously evolving, with ongoing improvements, refactors, and new features.
 
-## Tech Stack 
+---
 
-- Next.js 16
-- React 19
-- Typescript 5
-- TailwindCSS 4
-- Drizzle-orm (using Neon)
+## Philosophy
+
+I enjoy building things that feel complete — even when they start small.
+
+Coding, for me, is not only about shipping products, but about organizing ideas, understanding systems, and connecting concepts to real-world execution. This website serves as a space to explore that process.
+
+---
+
+## Open Source & Credits
+
+This website is open-source.
+
+The framework and UI foundation are created by **hexaa**  
+👉 https://github.com/hexaaagon
+
+This project builds on top of that work, with modifications, additions, and personal adaptations for my own portfolio.
+
+**Create your own. Build on top of it. Make it yours.**
+
+---
+
+## Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Drizzle ORM (Neon Postgres)
 - SWR
 - Framer Motion
-- Lucide Icon & React Icons Pack
-- Biome Linter & Formatter
-
-## Special Thanks to
-
-<div>
-  <a href="https://siege.hackclub.com/?ref=432">
-    <img src="https://siege.hackclub.com/assets/logo-55998110.webp" alt="Hack Club Logo" height="48"></img>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://hackclub.com">
-    <img src="https://assets.hackclub.com/flag-standalone.svg" alt="Hack Club Logo" height="48"></img>
-  </a>
-</div>
+- Lucide Icons & React Icons
+- Biome (Linting & Formatting)
