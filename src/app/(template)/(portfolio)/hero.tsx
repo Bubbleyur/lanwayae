@@ -85,14 +85,6 @@ export default function HeroSection() {
             >
               [<LocalTime />]
             </Link>
-            <button
-              type="button"
-              onClick={cycleTheme}
-              className="inline-flex items-center gap-2 rounded-full border border-slate-200/60 bg-white/70 px-3 py-1 text-xs font-mono text-slate-700 transition hover:-translate-y-[1px] hover:border-orange-500/60 hover:text-orange-600 dark:border-slate-800/70 dark:bg-slate-800/70 dark:text-slate-100"
-            >
-              <BauhausGenerator />
-              shuffle scene
-            </button>
           </div>
 
           <div className="relative overflow-hidden rounded-2xl border border-white/30 bg-gradient-to-br from-orange-500/10 via-amber-200/15 to-rose-500/10 p-6 text-right shadow-inner dark:border-slate-800/60 dark:from-amber-400/10 dark:via-slate-900/60 dark:to-rose-500/10">
@@ -105,7 +97,7 @@ export default function HeroSection() {
 
           <div className="grid grid-cols-2 gap-2 text-[11px] font-mono uppercase tracking-[0.18em] text-slate-500 dark:text-slate-300">
             <span className="rounded border border-white/30 bg-white/70 px-3 py-2 text-left dark:border-slate-800/60 dark:bg-slate-800/70">
-              Jakarta live time
+              Wayae Lan!!
             </span>
             <span className="rounded border border-white/30 bg-white/70 px-3 py-2 text-left dark:border-slate-800/60 dark:bg-slate-800/70">
               adaptive themes
@@ -115,11 +107,11 @@ export default function HeroSection() {
       </div>
 
       <div className="border-t border-separator/10">
-        <div className="inner relative m-auto border-x border-separator/10 px-4 py-3">
+        <div className="inner relative m-auto border-x border-separator/10 px-4 py-4">
           <span className="flex items-center justify-between font-montreal-mono text-xs text-slate-600 dark:text-slate-300">
-            stitched grid • live from Jakarta
+            this is where things get fun
             <span className="text-orange-600 dark:text-amber-200">
-              plus‑separators aligned
+              scroll to begin
             </span>
           </span>
           <PlusSeparator position={["top-left", "top-right"]} />
